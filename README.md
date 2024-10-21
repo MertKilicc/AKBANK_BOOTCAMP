@@ -24,3 +24,4 @@ sonuçlar pek istediğim gibi çıkmasada bu projede kendimi gerçekten çokca g
 
 
 https://www.kaggle.com/code/lucimert/bootcamp
+https://github.com/MertKilicc/AKBANK_BOOTCAMP/blob/main/bootcamp.ipynb
